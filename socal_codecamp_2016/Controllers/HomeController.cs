@@ -8,6 +8,7 @@ namespace socal_codecamp_2016.Controllers
 {
     public class HomeController : Controller
     {
+
         public ActionResult Index()
         {
             return View();
